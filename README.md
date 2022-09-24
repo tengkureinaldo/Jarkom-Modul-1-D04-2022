@@ -143,7 +143,7 @@ Untuk mendapatkan password kita bisa menggunakan clue yang terdapat pada percaka
 
 Dengan mencoba setiap kata pada nama karakter-karakter tersebut didapatkan kata ```nakano``` sebagai password untuk men-decrypt file no 9.
 
-* #### Kendala
+## Kendala
 - Untuk nomer 10 agak ambigu untuk mereka yang tidak menonton anime tersebut
 - Untuk nomer 9, kesulitan untuk decrypt filenya dikarenakan mesti didownload dalam raw baru bisa dipake dengan syntax openssl
 - Untuk nomer 8, sempat kebingungan bagaimana cara untuk mendapatkan percakapan secara bersih tanpa ada paket-paket yang lain
