@@ -8,6 +8,7 @@
 | Shaula Aljauhara Riyadi | 5025201265 |
 
 3. Filter sehingga wireshark hanya menampilkan paket yang menuju port 80! 
+![This is an image](/assets/images/3.jpg)
 > Karena port 80 menggunakan protokol TCP, maka masukkan filter expression seperti di
 atas dan hasilnya adalah daftar paket yang menuju port 80, ditandai dengan “... -> 80” di
 bagian Info
